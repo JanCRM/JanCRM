@@ -2,8 +2,6 @@
 
 <img src="./img/Banner de Etsy Formas Colorido.gif">
 
-
-
 <h2 align="center">🖥️ SMR && DAM 🚀</h2>
 
 ---
@@ -16,15 +14,11 @@ Me encanta la música 🎵,  y el deporte 🏀⚾🚲.
 
 <br>
 
-
 <div align="center">
-
 
 <h2 align="center">📫 contacto 📧</h2>
 
-
-
-[<img src="./img/descarga.png" width="60px" height="50px">](https://twitter.com/JC_R_M) [<img src="./img/Logo-Linkedi1n.png" width="50px" height="50px">](https://www.linkedin.com/notifications/) [<img src="./img/icono85-communication-email-letter-mail-messege-post-send.png" width="50px" height="50px">](jcramos417@gmail.com)
+[<img src="./img/descarga.png" width="60px" height="50px">](https://twitter.com/JC_R_M) [<img src="./img/Logo-Linkedi1n.png" width="50px" height="50px">](https://www.linkedin.com/notifications/) [<img src="./img/icono85-communication-email-letter-mail-messege-post-send.png" width="50px" height="50px">](href="mailto:jcramos417@gmail.com")
 <br>
 
 </div>
