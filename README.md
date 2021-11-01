@@ -15,7 +15,7 @@ Me encanta la música 🎵,  y el deporte 🏀⚾🚲.
 
 ---
 
-###<center>📫 contacto 📧</center>
+<center>📫 contacto 📧</center>
 ---
 
 
@@ -24,18 +24,13 @@ Me encanta la música 🎵,  y el deporte 🏀⚾🚲.
 
 ---
 
-###<center>👨🏽‍💻 Tecnologias Utilizadas 💬</center>
+<center>👨🏽‍💻 Tecnologias Utilizadas 💬</center>
 
 ---
 
 <center>
 ---
-<img src="./img/images.png" width="80px" height="80px">
-<img src="./img/image.png" width="75px" height="75px">
-<img src="./img/Adobe_XD_CC_icon.svg.png" width="75px" height="75px">
-<img src="./img/Typescript_logo_2020.svg" width="75px" height="75px">
-<img src="./img/java.png.crdownload" width="80px" height="75px">
-<img src="./img/csharp-01.png" width="75px" height="75px">
+<img src="./img/images.png" width="80px" height="80px"><img src="./img/image.png" width="75px" height="75px"><img src="./img/Adobe_XD_CC_icon.svg.png" width="75px" height="75px"><img src="./img/Typescript_logo_2020.svg" width="75px" height="75px"><img src="./img/java.png.crdownload" width="80px" height="75px"><img src="./img/csharp-01.png" width="75px" height="75px">
 
 ---
 </center>
