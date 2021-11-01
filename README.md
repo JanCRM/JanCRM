@@ -1,6 +1,7 @@
 ### Hi there  👋 Soy Jan
 
-<img src="./img/fotogithub.gif">
+<img src="./img/Banner de Etsy Formas Colorido.gif">
+
 
 
 <h2 align="center">🖥️ SMR && DAM 🚀</h2>
