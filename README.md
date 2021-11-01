@@ -3,7 +3,7 @@
 <img src="./img/fotogithub.gif">
 
 
-<h3 align="center">🖥️ SMR && DAM 🚀</h3>
+<h2 align="center">🖥️ SMR && DAM 🚀</h2>
 
 ---
  - Soy Técnico en Sistemas Microinformático y Redes, 📚 estudiante de Desarrollo de Aplicaciones Multiplataforma.
@@ -20,7 +20,7 @@ Me encanta la música 🎵,  y el deporte 🏀⚾🚲.
 
 ---
 
-<h3 align="center">📫 contacto 📧</h3>
+<h2 align="center">📫 contacto 📧</h2>
 ---
 
 
@@ -31,7 +31,7 @@ Me encanta la música 🎵,  y el deporte 🏀⚾🚲.
 
 ---
 
-<h3 align="center">👨🏽‍💻 Tecnologias Utilizadas 💬</h3>
+<h2 align="center">👨🏽‍💻 Tecnologias Utilizadas 💬</h2>
 
 <hr>
 
@@ -40,6 +40,6 @@ Me encanta la música 🎵,  y el deporte 🏀⚾🚲.
 </div>
 
 ---
-</center>
+
 
  > "S una persona es perseverante, aunque sea dura de entendimiento, se hara inteligente; y aunque sea debíl se convertira en fuerte".
