@@ -7,7 +7,7 @@
 ---
  - Soy ***Técnico en Sistemas Microinformático y Redes,*** 📚 y estudiante de ***Desarrollo de Aplicaciones Multiplataforma.***
 - Apasionado de la tecnología 💻, y el mundo Crypto <a href='https://emojitool.com/bitcoin-sign'>₿</a>. 
-- Curiosos y persistente, con ganas de crear grandes proyectos.
+- Curioso y persistente, con ganas de crear grandes proyectos.
 Me encanta la música 🎵,  y el deporte 🏀⚾🚲.
 
 <img align="right" src="./img/octogato.png" width="300px">
