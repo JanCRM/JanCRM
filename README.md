@@ -6,7 +6,7 @@
 
 ---
  - Soy ***Técnico en Sistemas Microinformático y Redes,*** 📚 y estudiante de ***Desarrollo de Aplicaciones Multiplataforma.***
-- Apasionado de la tecnología 💻, y el mundo Crypto <a href='https://emojitool.com/bitcoin-sign'>₿</a>. 
+- Apasionado de la tecnología 💻, y el mundo Crypto ₿. 
 - Curioso y perseverante, con ganas de crear grandes proyectos.
 Me encanta la música 🎵,  y el deporte 🏀⚾🚲.
 
