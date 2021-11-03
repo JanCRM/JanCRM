@@ -8,7 +8,7 @@
  - Soy ***Técnico en Sistemas Microinformático y Redes,*** 📚 y estudiante de ***Desarrollo de Aplicaciones Multiplataforma.***
 - Apasionado de la tecnología 💻, y el mundo Crypto ₿. 
 - Curioso y perseverante, con ganas de crear grandes proyectos.
-Me encanta la música 🎵,  y el deporte 🏀⚾🚲.
+- Me encanta la música 🎵, el deporte 🏀⚾🚲.
 
 <img align="right" src="./img/octogato.png" width="300px">
 
